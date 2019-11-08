@@ -1,9 +1,9 @@
 {
-  "name": "react-select",
+  "name": "react-select--freewind-fixes",
   "version": "3.0.8",
   "description": "A Select control built with and for ReactJS",
-  "main": "dist/react-select.cjs.js",
-  "module": "dist/react-select.esm.js",
+  "main": "dist/react-select--freewind-fixes.cjs.js",
+  "module": "dist/react-select--freewind-fixes.esm.js",
   "sideEffects": false,
   "author": "Jed Watson",
   "license": "MIT",
@@ -63,7 +63,7 @@
     ]
   },
   "browser": {
-    "./dist/react-select.cjs.js": "./dist/react-select.browser.cjs.js",
-    "./dist/react-select.esm.js": "./dist/react-select.browser.esm.js"
+    "./dist/react-select--freewind-fixes.cjs.js": "./dist/react-select--freewind-fixes.browser.cjs.js",
+    "./dist/react-select--freewind-fixes.esm.js": "./dist/react-select--freewind-fixes.browser.esm.js"
   }
 }
